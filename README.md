@@ -27,3 +27,22 @@ Projeyi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    git clone https://github.com/kullaniciadi/financial-data-scraper.git
    cd financial-data-scraper
+   
+2. **Gerekli Python kütüphanelerini yükleyin:**
+   ```bash
+   pip install beautifulsoup4
+   pip install requests
+   pip install pandas
+   
+3. **Veri çekme scriptini çalıştırın:**
+   ```bash
+   python data_scraper.py
+   
+4. **Toplanan Veriler:**
+   Çıktı dosyası financial_data.xlsx olarak proje dizininde oluşturulacaktır.
+
+🌐 Veri Seti Linki
+Veri setinin tam halini Google Drive üzerinden indirebilirsiniz.
+-linkkk
+
+   
