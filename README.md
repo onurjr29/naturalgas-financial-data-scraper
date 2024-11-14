@@ -1,4 +1,4 @@
-# Financial Data Scraper
+# Natural Gas Financial Data Scraper
 
 Bu proje, **Yahoo Finance** sitesinden finansal verileri çekip Excel dosyasına kaydetmek amacıyla geliştirilmiştir. Python, BeautifulSoup ve Pandas kullanarak tarih, açılış, en yüksek, en düşük, kapanış fiyatları ve hacim gibi finansal veriler otomatik olarak toplanır.
 
@@ -25,7 +25,7 @@ Projeyi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone https://github.com/kullaniciadi/financial-data-scraper.git
+   git clone https://github.com/kullaniciadi/naturalgas-financial-data-scraper.git
    cd financial-data-scraper
    
 2. **Gerekli Python kütüphanelerini yükleyin:**
