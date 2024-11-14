@@ -41,7 +41,7 @@ Projeyi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
 4. **Toplanan Veriler:**
    Çıktı dosyası financial_data.xlsx olarak proje dizininde oluşturulacaktır.
 
-##🌐 Veri Seti Linki
+## 🌐 Veri Seti Linki
 Veri setinin tam halini Google Drive üzerinden indirebilirsiniz.
 ### https://drive.google.com/drive/folders/1eFwGSVcnJHrNG_C-BojeTXTWb_-_E3Uj?usp=sharing
 
