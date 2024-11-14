@@ -43,6 +43,6 @@ Projeyi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
 
 🌐 Veri Seti Linki
 Veri setinin tam halini Google Drive üzerinden indirebilirsiniz.
-# https://drive.google.com/drive/folders/1eFwGSVcnJHrNG_C-BojeTXTWb_-_E3Uj?usp=sharing
+### https://drive.google.com/drive/folders/1eFwGSVcnJHrNG_C-BojeTXTWb_-_E3Uj?usp=sharing
 
    
